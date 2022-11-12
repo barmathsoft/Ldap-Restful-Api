@@ -1,0 +1,4 @@
+  
+
+      Swagger arayüzü için url ye /swagger/ui/index#/ eklenmeli.
+      for swagger client add /swagger/ui/index#/ to url
